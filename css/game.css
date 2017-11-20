@@ -9,6 +9,7 @@
 .player { background: rgb(128, 251, 0); }
 .coin   { background: rgb(148, 209, 155); }
 .gem   { background: rgb(212, 101, 114); }
+.portIn	   { background: rgb(222, 112, 255);}
 
 
 .game {
