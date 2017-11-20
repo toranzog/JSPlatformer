@@ -36,7 +36,7 @@ function Level(plan) {
 			}
 			
 			else if (ch == "a") {
-				fieldType = "portalIn";
+				fieldType = "portIn";
 			}
 			
 
